@@ -1,0 +1,33 @@
+[20-Aug-2020 23:09:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 15
+[20-Aug-2020 23:09:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 15
+[20-Aug-2020 23:28:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/casidios/order.casidios.com/views_online/inicio.php on line 14
+[20-Aug-2020 23:28:49 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/casidios/order.casidios.com/views_online/inicio.php on line 14
+[22-Aug-2020 22:52:38 America/Chicago] PHP Warning:  include(../includes/includes.php): failed to open stream: No such file or directory in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 2
+[22-Aug-2020 22:52:38 America/Chicago] PHP Warning:  include(../includes/includes.php): failed to open stream: No such file or directory in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 2
+[22-Aug-2020 22:52:38 America/Chicago] PHP Warning:  include(): Failed opening '../includes/includes.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 2
+[22-Aug-2020 22:52:38 America/Chicago] PHP Warning:  include(common_files/sesion.php): failed to open stream: No such file or directory in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 3
+[22-Aug-2020 22:52:38 America/Chicago] PHP Warning:  include(common_files/sesion.php): failed to open stream: No such file or directory in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 3
+[22-Aug-2020 22:52:38 America/Chicago] PHP Warning:  include(): Failed opening 'common_files/sesion.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 3
+[22-Aug-2020 22:52:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 243
+[22-Aug-2020 22:53:54 America/Chicago] PHP Warning:  include(../includes/includes.php): failed to open stream: No such file or directory in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 2
+[22-Aug-2020 22:53:54 America/Chicago] PHP Warning:  include(../includes/includes.php): failed to open stream: No such file or directory in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 2
+[22-Aug-2020 22:53:54 America/Chicago] PHP Warning:  include(): Failed opening '../includes/includes.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 2
+[22-Aug-2020 22:53:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/casidios/order.casidios.com/views_online/guardar_venta.php on line 243
+[29-Aug-2020 22:19:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 99
+[29-Aug-2020 22:27:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$id_mesa' (T_VARIABLE) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 250
+[29-Aug-2020 22:27:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$id_mesa' (T_VARIABLE) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 250
+[29-Aug-2020 22:27:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$id_mesa' (T_VARIABLE) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 250
+[29-Aug-2020 22:27:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$id_mesa' (T_VARIABLE) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 250
+[29-Aug-2020 22:27:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$id_mesa' (T_VARIABLE) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 250
+[29-Aug-2020 22:27:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$id_mesa' (T_VARIABLE) in /home2/casidios/order.casidios.com/views_online/inicio.php on line 250
+[30-Aug-2020 00:27:49 America/Chicago] PHP Parse error:  syntax error, unexpected '|' in /home2/casidios/order.casidios.com/views_online/inicio.php on line 98
+[30-Aug-2020 00:27:51 America/Chicago] PHP Parse error:  syntax error, unexpected '|' in /home2/casidios/order.casidios.com/views_online/inicio.php on line 98
+[30-Aug-2020 00:27:52 America/Chicago] PHP Parse error:  syntax error, unexpected '|' in /home2/casidios/order.casidios.com/views_online/inicio.php on line 98
+[30-Aug-2020 20:50:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/casidios/order.casidios.com/views_online/ajax_pedidos.php on line 162
+[30-Aug-2020 20:50:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/casidios/order.casidios.com/views_online/ajax_pedidos.php on line 162
+[30-Aug-2020 21:46:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file in /home2/casidios/order.casidios.com/views_online/ajax_pedidos.php on line 160
+[30-Aug-2020 21:46:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file in /home2/casidios/order.casidios.com/views_online/ajax_pedidos.php on line 160
+[02-Sep-2020 23:24:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/casidios/order.casidios.com/views_online/inicio.php on line 142
+[05-Oct-2020 21:26:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/haguilar/shop.aguitech.com/views_online/inicio.php on line 136
+[05-Oct-2020 23:35:36 America/Chicago] PHP Warning:  Unterminated comment starting line 648 in /home1/haguilar/shop.aguitech.com/views_online/inicio.php on line 648
+[05-Oct-2020 23:58:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/haguilar/shop.aguitech.com/views_online/inicio.php on line 136
